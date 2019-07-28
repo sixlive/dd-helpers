@@ -3,7 +3,7 @@
 if (function_exists('dd_if')) {
     /**
      * @param  mixed $value
-     * @param  Closure|boolean $condition
+     * @param  Closure|bool $condition
      * @return void
      */
     function dd_if($value, $condition)
@@ -21,7 +21,7 @@ if (function_exists('dd_if')) {
 if (function_exists('dump_until')) {
     /**
      * @param  mixed $value
-     * @param  Closure|boolean $condition
+     * @param  Closure|bool $condition
      * @return void
      */
     function dump_until($value, $condition)
