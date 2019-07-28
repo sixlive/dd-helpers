@@ -2,6 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/sixlive/dd-helpers.svg?style=flat-square)](https://packagist.org/packages/sixlive/dd-helpers)
 [![Total Downloads](https://img.shields.io/packagist/dt/sixlive/dd-helpers.svg?style=flat-square)](https://packagist.org/packages/sixlive/dd-helpers)
+[![StyleCI](https://github.styleci.io/repos/199317668/shield?branch=master)](https://github.styleci.io/repos/199317668)
 
 ## Installation
 
