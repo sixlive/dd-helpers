@@ -1,4 +1,4 @@
-# Very short description of the package
+# Additional Dump & Die Helpers
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/sixlive/dd-helpers.svg?style=flat-square)](https://packagist.org/packages/sixlive/dd-helpers)
 [![Total Downloads](https://img.shields.io/packagist/dt/sixlive/dd-helpers.svg?style=flat-square)](https://packagist.org/packages/sixlive/dd-helpers)
