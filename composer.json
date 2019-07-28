@@ -1,0 +1,26 @@
+{
+    "name": "sixlive/dd-helpers",
+    "description": "Additional dump and die helpers",
+    "keywords": [
+        "sixlive",
+        "dd-helpers"
+    ],
+    "homepage": "https://github.com/sixlive/dd-helpers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TJ Miller",
+            "email": "oss@tjmiller.co",
+            "homepage": "https://tjmiller.me",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "files": {
+            "src/helpers.php"
+        }
+    }
+}
