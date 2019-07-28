@@ -1,6 +1,6 @@
 <?php
 
-if (function_exists('dd_if')) {
+if (!function_exists('dd_if')) {
     /**
      * @param  mixed $value
      * @param  Closure|bool $condition
@@ -18,7 +18,7 @@ if (function_exists('dd_if')) {
     }
 }
 
-if (function_exists('dump_until')) {
+if (!function_exists('dump_until')) {
     /**
      * @param  mixed $value
      * @param  Closure|bool $condition
