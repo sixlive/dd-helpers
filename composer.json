@@ -16,7 +16,8 @@
         }
     ],
     "require": {
-        "php": "^7.2"
+        "php": "^7.2",
+        "symfony/var-dumper": "^4.3"
     },
     "autoload": {
         "files": [
